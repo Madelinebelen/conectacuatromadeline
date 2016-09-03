@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">conectacuatromadeline</string>
+
+    <string name="jugarotravez">JUGAR DE NUEVO!</string>
+    <string name="comosejuega">COMO SE JUEGA?</string>
+    <string name="Informacion">INFO</string>
+    <string name="jugador">1 Jugador</string>
+    <string name="jugadores">2 Jugadores </string>
+</resources>

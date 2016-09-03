@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/uno"
+            android:layout_row="0"
+            android:layout_column="0"
+            />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/dos"
+            android:layout_row="0"
+            android:layout_column="1" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/tres"
+            android:layout_row="0"
+            android:layout_column="2" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/cuatro"
+            android:layout_row="0"
+            android:layout_column="3" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/cinco"
+            android:layout_row="0"
+            android:layout_column="4" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/seis"
+            android:layout_row="1"
+            android:layout_column="0" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/siete"
+            android:layout_row="1"
+            android:layout_column="1" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/ocho"
+            android:layout_row="1"
+            android:layout_column="2" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/nueve"
+            android:layout_row="1"
+            android:layout_column="3" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/diez"
+            android:layout_row="1"
+            android:layout_column="4" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/once"
+            android:layout_row="2"
+            android:layout_column="0" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/doce"
+            android:layout_row="2"
+            android:layout_column="1" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/trece"
+            android:layout_row="2"
+            android:layout_column="2" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/catorce"
+            android:layout_row="2"
+            android:layout_column="3" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/quince"
+            android:layout_row="2"
+            android:layout_column="4" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/dieciseis"
+            android:layout_row="3"
+            android:layout_column="0" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/diecisiete"
+            android:layout_row="3"
+            android:layout_column="1" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/dieciocho"
+            android:layout_row="3"
+            android:layout_column="2" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/diecinueve"
+            android:layout_row="3"
+            android:layout_column="3" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/veinte"
+            android:layout_row="3"
+            android:layout_column="4" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/veintiuno"
+            android:layout_row="4"
+            android:layout_column="0" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/veintidos"
+            android:layout_row="4"
+            android:layout_column="1" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/veintitres"
+            android:layout_row="4"
+            android:layout_column="2" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/veinticuatro"
+            android:layout_row="4"
+            android:layout_column="3" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/veinticinco"
+            android:layout_row="4"
+            android:layout_column="4" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/veintiseis"
+            android:layout_row="5"
+            android:layout_column="0" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/veintisiete"
+            android:layout_row="5"
+            android:layout_column="1" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/veintiocho"
+            android:layout_row="5"
+            android:layout_column="2" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/veintinueve"
+            android:layout_row="5"
+            android:layout_column="3" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/treinta"
+            android:layout_row="5"
+            android:layout_column="4" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/treintauno"
+            android:layout_row="6"
+            android:layout_column="0" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/treintados"
+            android:layout_row="6"
+            android:layout_column="1" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/treintatres"
+            android:layout_row="6"
+            android:layout_column="2" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/treintacuatro"
+            android:layout_row="6"
+            android:layout_column="3" />
+
+        <ImageButton
+            android:layout_width="75dp"
+            android:layout_height="70dp"
+            android:id="@+id/treintacinco"
+            android:layout_row="6"
+            android:layout_column="4" />
+
+    </GridLayout>
+</LinearLayout>

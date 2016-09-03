@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.madel_000.conectacuatromadeline" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".screen_splash"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".MainActivity">
+
+        </activity>
+
+        <activity
+            android:name=".unjugador"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.PERSONA" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".multijugador"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.multijugador" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".comosejuega"></activity>
+        <activity android:name=".informacion"></activity>
+
+
+    </application>
+
+</manifest>
