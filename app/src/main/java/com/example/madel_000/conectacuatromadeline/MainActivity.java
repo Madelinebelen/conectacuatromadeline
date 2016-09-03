@@ -22,6 +22,7 @@ public class MainActivity extends Activity implements View.OnClickListener{
         btn2jugador.setOnClickListener(this);
 
 
+
     }
 
     @Override
